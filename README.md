@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jyot Soni</h1>
+<img width="100%" height="250px" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67"/>
+<h1 align="center">Hey Folks 👋, I'm Jyot Soni</h1>
 <h3 align="center">A passionate developer how is learning the new aspects of the technology </h3>
 <h5 align="center">I am a student in 3rd year pursuing Information Technology from Indian Institute of Information Technology Vadodara(IIITV). </h5>
 
