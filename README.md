@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyot53" alt="jyot53" /></a> </p>
 
-- 🌱 I’m currently learning **MERN , Blockchain Technology**
+- 🌱 I’m currently learning **React and Next.js , Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyot53](https://github.com/jyot53)
 
