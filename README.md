@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyot53" alt="jyot53" /></a> </p>
 
-- 🌱 I’m currently learning **React and Next.js , Blockchain Technology**
+- 🌱 I’m currently learning **React.js and Next.js, Node.js and Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyot53](https://github.com/jyot53)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Machine Learning**
 
 - 📫 How to reach me **jyotsoni0053@gmail.com**
 
