@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyot53" alt="jyot53" /></a> </p>
 
+- 👨🏻‍💻 Started working at **Testbook.com** as a **software developer intern**
+
+- 👨🏻‍💻 Completed 3 months summer internship(2022) at **Caarya Innovative Solutions Pvt. Ltd.** as a **Full Stack Developer** 
+
 - 🌱 I’m currently learning **React.js and Next.js, Node.js and Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyot53](https://github.com/jyot53)
