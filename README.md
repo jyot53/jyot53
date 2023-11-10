@@ -1,21 +1,23 @@
 <img width="100%" height="250px" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67"/>
 <h1 align="center">Hey Folks 👋, I'm Jyot Soni</h1>
-<h3 align="center">A passionate developer how is learning the new aspects of the technology </h3>
-<h5 align="center">I am a student in 3rd year pursuing Information Technology from Indian Institute of Information Technology Vadodara(IIITV). </h5>
+<h3 align="center">A passionate developer who is learning the new aspects of the technology </h3>
+<h5 align="center">I am a B.Tech graduate from IIIT Vadodara in Information Technology with an CPI of 8.50.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyot53&label=Profile%20views&color=0e75b6&style=flat" alt="jyot53" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyot53" alt="jyot53" /></a> </p>
 
-- 👨🏻‍💻 Started working at **Testbook.com** as a **software developer intern**
+- 👨🏻‍💻 Started working at **Testbook.com** as a **Software Engineer**
 
-- 👨🏻‍💻 Completed 3 months summer internship(2022) at **Caarya Innovative Solutions Pvt. Ltd.** as a **Full Stack Developer** 
+- 👨🏻‍💻 Completed 4 months summer internship(2022) at **Caarya Innovative Solutions Pvt. Ltd.** as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **React.js and Next.js, Node.js and Blockchain Technology**
+- I'm familiar with **Angular, ReactJS, TypeScript, JavaScript, NodeJS, ExpressJS and MongoDB**
+
+- 🌱 I’m currently learning **NextJS 13** which the latest version, also learning **CI/CD** Pipeline in **Jenkins and Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyot53](https://github.com/jyot53)
 
-- 💬 Ask me about **Web Development, Machine Learning**
+- 💬 Ask me about **Web Development, Blockchain, Sofware Project Management, Machine Learning**
 
 - 📫 How to reach me **jyotsoni0053@gmail.com**
 
@@ -23,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jyot-soni-a8ab751b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyot-soni-a8ab751b0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jyot-soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyot-soni-a8ab751b0" height="30" width="40" /></a>
 <a href="https://instagram.com/soni.jyot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soni.jyot" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jyot53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jyot53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jyotsoni0053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jyotsoni0053" height="30" width="40" /></a>
