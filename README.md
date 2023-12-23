@@ -1,7 +1,9 @@
 <img width="100%" height="250px" src="https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67"/>
 <h1 align="center">Hey Folks 👋, I'm Jyot Soni</h1>
 <h3 align="center">A passionate developer who is learning the new aspects of the technology </h3>
-<h5 align="center">I am a B.Tech graduate from IIIT Vadodara in Information Technology with an CPI of 8.50.</h5>
+<h6 align="center">I have completed my B.Tech in Information Technology from Indian Institute of Information Technology Vadodara, with a CPI of 8.50. Furthermore, I bring with me more then one year of invaluable experience as a Software Developer (MEAN & MERN) at Testbook, coupled with a six-month internship in the role of a Full Stack Developer(MERN).
+
+I am proficient in programming languages such as C, C++, and JavaScript, with a strong understanding of Data Structures and Algorithms. I also have experience in web programming using Angular, NodeJS, ExpressJS, ReactJS, PHP, MongoDB, and MySQL. Moreover, I possess an interest in technologies like Blockchain, Machine Learning and Networking.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyot53&label=Profile%20views&color=0e75b6&style=flat" alt="jyot53" /> </p>
 
