@@ -9,7 +9,9 @@
 
 - 👨🏻‍💻 Started working at **Testbook.com** as a **Software Engineer**
 
-- 👨🏻‍💻 Completed 4 months summer internship(2022) at **Caarya Innovative Solutions Pvt. Ltd.** as a **Full Stack Developer**
+- 👨🏻‍💻 Completed 6 months summer internship(2022) at **Caarya Innovative Solutions Pvt. Ltd.** as a **Full Stack Developer**
+- 
+- 👨🏻‍💻 Completed 6 months of **Reasearch Internship** at Institute and worked on E-Voting System Project
 
 - I'm familiar with **Angular, ReactJS, TypeScript, JavaScript, NodeJS, ExpressJS and MongoDB**
 
@@ -17,11 +19,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jyot53](https://github.com/jyot53)
 
+- 👨‍💻 My Updated Resume - [resume link ](https://jyot53.github.io/resume/)
+
 - 💬 Ask me about **Web Development, Blockchain, Sofware Project Management, Machine Learning**
 
 - 📫 How to reach me **jyotsoni0053@gmail.com**
 
-- ⚡ Fun fact **Learning New Things**
+- ⚡ Fun fact **Constantly Learning New Things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
